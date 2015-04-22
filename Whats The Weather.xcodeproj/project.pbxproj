@@ -13,6 +13,7 @@
 		41CBB2F31A72E02D00D90EE5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41CBB2F21A72E02D00D90EE5 /* Images.xcassets */; };
 		41CBB2F61A72E02D00D90EE5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41CBB2F41A72E02D00D90EE5 /* LaunchScreen.xib */; };
 		41CBB3021A72E02D00D90EE5 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41CBB3011A72E02D00D90EE5 /* Whats_The_WeatherTests.swift */; };
+		41CBB30E1A72E14000D90EE5 /* mountain_valley_view-wallpaper-1024x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41CBB30D1A72E14000D90EE5 /* mountain_valley_view-wallpaper-1024x768.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		41CBB2FB1A72E02D00D90EE5 /* Whats The WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41CBB3001A72E02D00D90EE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41CBB3011A72E02D00D90EE5 /* Whats_The_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherTests.swift; sourceTree = "<group>"; };
+		41CBB30D1A72E14000D90EE5 /* mountain_valley_view-wallpaper-1024x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mountain_valley_view-wallpaper-1024x768.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				41CBB2EB1A72E02D00D90EE5 /* AppDelegate.swift */,
 				41CBB2ED1A72E02D00D90EE5 /* ViewController.swift */,
 				41CBB2EF1A72E02D00D90EE5 /* Main.storyboard */,
+				41CBB30D1A72E14000D90EE5 /* mountain_valley_view-wallpaper-1024x768.jpg */,
 				41CBB2F21A72E02D00D90EE5 /* Images.xcassets */,
 				41CBB2F41A72E02D00D90EE5 /* LaunchScreen.xib */,
 				41CBB2E91A72E02D00D90EE5 /* Supporting Files */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41CBB2F11A72E02D00D90EE5 /* Main.storyboard in Resources */,
+				41CBB30E1A72E14000D90EE5 /* mountain_valley_view-wallpaper-1024x768.jpg in Resources */,
 				41CBB2F61A72E02D00D90EE5 /* LaunchScreen.xib in Resources */,
 				41CBB2F31A72E02D00D90EE5 /* Images.xcassets in Resources */,
 			);
@@ -407,6 +411,7 @@
 				41CBB3071A72E02D00D90EE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		41CBB3081A72E02D00D90EE5 /* Build configuration list for PBXNativeTarget "Whats The WeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				41CBB30A1A72E02D00D90EE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
